@@ -1,4 +1,5 @@
 function submit() {
+    
     let months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
     // finding bdy details
     let Bdydate = document.getElementById("datevalue").value;
